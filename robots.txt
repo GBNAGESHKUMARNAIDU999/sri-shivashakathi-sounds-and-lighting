@@ -1,0 +1,9 @@
+# robots.txt for Sri Shivashakti Sound & Lighting
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /.git/
+Disallow: /.vscode/
+
+# Sitemap location
+Sitemap: https://srishivashakti.com/sitemap.xml
